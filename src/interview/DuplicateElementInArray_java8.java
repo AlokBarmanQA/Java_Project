@@ -1,9 +1,11 @@
 package interview;
 
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 public class DuplicateElementInArray_java8 {
 
@@ -13,13 +15,12 @@ public class DuplicateElementInArray_java8 {
         
         List<Integer> list = Arrays.asList(1, 2, 1, 3, 4, 4, 5, 2);
         
-		System.out.println("==================================");
-		findDuplicateUsingSet(arr);
+		findDuplicateFromArray(numbers);
 		System.out.println("***********************************");
-	//	findDuplicateUsingNestedLoops(arr);
+		findDuplicateFromList(list);
 	}
 	
-	public static void findDuplicateFromArray(int[] arr) {
+	public static void findDuplicateFromArray(Integer[] numbers) {
 		  // A set to store unique elements encountered so far
         Set<Integer> uniqueElements = new HashSet<>();
         
@@ -35,7 +36,7 @@ public class DuplicateElementInArray_java8 {
         System.out.println("Duplicate elements: " + duplicates); // Output: Duplicate elements: [1, 2, 4]
     }
 	
-	public static void findDuplicateFromList(int[] arr) {
+	public static void findDuplicateFromList(List<Integer> list) {
 		 Set<Integer> duplicates = list.stream()
 		            // Filter elements that appear more than once
 		            .filter(i -> Collections.frequency(list, i) > 1)
