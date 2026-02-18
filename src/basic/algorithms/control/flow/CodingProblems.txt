@@ -1,0 +1,7 @@
+1. Java Program To Count The Sum Of Digits In A Number
+
+2. Java Program To Check Given Year Is Leap Or Not
+
+3. Java Program To Find Largest Of Three Numbers
+
+4. Java Program to find Number is Prime

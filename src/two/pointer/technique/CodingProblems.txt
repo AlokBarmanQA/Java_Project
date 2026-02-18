@@ -1,0 +1,7 @@
+1. Java Program Intersection Of Two Sorted Arrays Using Two Pointer Technique
+
+2. Java Program Move Zeros To Right Using Two Pointer Technique
+
+3. Java Program Reverse An Array Using Two pointer Technique
+
+4. Java Program To Check if an Array Has A Pair With Given Sum Using Two Pointers

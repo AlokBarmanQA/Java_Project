@@ -1,0 +1,9 @@
+1. Java Program To Print Characters In Descending Order Of Frequency
+
+2. Java Program to Print Count of vowels in a Given String
+
+3. Java Program to Check if String is a Pangram
+
+4. Java Program for String Compression
+
+5. Java Program to find Duplicate Words in a given String

@@ -1,0 +1,15 @@
+1. Java Program to Find Occurrence Of Element in Sorted Array
+
+2. Java Program To Find Index Of an Element In Rotated Sorted Array
+
+3. Java Program Binary Search
+
+4. Java Program To Generate All Substrings from a Given String
+
+5. Java Program To Find Length Of Longest Substring
+
+6. Java Program To Find the First Negative Window Using Sliding Window Technique
+
+7. Java Program Find Length Of Longest Unique Substring Without Repeating Character
+
+8. Java Program To Find The Maximum Sum Of Any Subarray Of Size K

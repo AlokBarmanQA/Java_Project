@@ -1,0 +1,31 @@
+1. Tricks For Array Manipulation & Algorithms
+
+2. Java Program - Print Elements Of an Array In Reverse Order
+
+3. Java Program To Find Longest Common Subsequence In Two Arrays
+
+4. Java Program To Move Zeros To Right Side Of An Array
+
+5. Java Program To Remove Elements Greater Than Given Value
+
+6. Java Program To Find Missing Numbers In An Array
+
+7. Java Program for Intersection Of Two Arrays
+
+8. Java Program to Find Second Maximum And Second Minimum in an Array
+
+9. Java Program to Check If Two Arrays Are Equal
+
+10. Java Program to Merge Sorted Arrays
+
+11. Java Program to Move All Negative Numbers to left side of an Array
+
+12. Java Program To Find All Majority Elements In An Array
+
+13. Java Program To Search An Element In An Array Using Linear Search
+
+14. Java Program To Rotate An Array by K Positions
+
+15. Java Program To Check The Quality Of Two Arrays
+
+16. Java Program To Find The Common Elements between Two Arrays Using Loops

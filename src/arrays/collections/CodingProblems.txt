@@ -1,0 +1,26 @@
+1. Java Program to find missing numbers in an array
+
+2. Java Program To Sort Names In An Array
+
+3. Java Program To Sort An Array and Remove Duplicates
+
+4. Java Program to Find Duplicate Numbers in an array
+
+5. Java Program To Find Sum OF All Elements In An Array
+
+6. Java Program to Sort An Array Using Bubble Sort
+
+7. Java Program To Check If Specific Value Exists in Linked HashMap
+
+8. Java Program To Check Specific Value in Tree Map
+
+9. Java Program To Check If Both HashSets Are Equal
+
+10. Java Program To Find First Non-Repeating Element
+
+11. Java Program To Find The Index Of Specific Element In Array List
+
+12. Java Program to Find A Key For Given Value In Hash Map
+
+13. Java Program To Find The Kth Smallest Element In An Array
+
