@@ -11,18 +11,20 @@ public class PrimeNumbersInArray {
 	}
 
 	public static boolean isPrime(int num) {
+		// System.out.println(Math.sqrt(num));
+
 		if (num <= 1) {
-			System.out.println(num + " is not a Prime number");
+			System.out.println(num + " Not a prime number");
 			return false;
 		} else {
 			for (int i = 2; i <= Math.sqrt(num); i++) {
 				if (num % i == 0) {
-					System.out.println(num + " is not a Prime number");
+					System.out.println(num + " is NOT a Prime number");
 					return false;
 				}
 			}
 		}
-		System.out.println(num + " is Prime number");
+		System.out.println(num + " is a Prime number");
 		return true;
 	}
 

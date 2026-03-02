@@ -9,10 +9,10 @@ public class MissingNumberInArray {
 
 	public static void main(String[] args) {
 		int arr[] = {1, 2, 3, 6, 7, 3, 5,};
-		int arr2[] = {5, 6, 6, 7, 9, 1, 2, 3, 10, 12, 12, 13, 13};
+		//int arr2[] = {5, 6, 6, 7, 9, 1, 2, 3, 10, 12, 12, 13, 13};
 		
 		findMissingNumberUsingSetAndArray(arr, 1, 7);
-		findMissingNumberUsingSetAndArray(arr2, 1, 13);
+		//findMissingNumberUsingSetAndArray(arr2, 1, 13);
 	}
 	
 	public static void findMissingNumberUsingSetAndArray(int[] arr, int minimumrange, int maximumrange) {
@@ -21,7 +21,7 @@ public class MissingNumberInArray {
 		for(Integer number:arr) {
 			set.add(number);
 		}
-		System.out.println(set);
+		//System.out.println(set);
 		List<Integer> list = new ArrayList<>();
 		for(int i=minimumrange; i<=maximumrange; i++) {
 			if(!set.contains(i)) {
