@@ -18,7 +18,11 @@ public class ArraysToList {
 		List<Integer> arr1List = new ArrayList<Integer>(Arrays.asList(arr1));
 		List<Integer> arrList_java8 = Arrays.stream(arr).boxed().collect(Collectors.toList());
 		List<Integer> arr1List_java8 = Arrays.stream(arr1).collect(Collectors.toList());
-		
+		//=================================
+		// For both primitive and Object arrays
+		System.out.println(Arrays.toString(arr)); 
+		System.out.println(Arrays.toString(arr1));
+		//=================================
 		System.out.println("1->"+arr);
 		System.out.println("2->"+arr1);
 		System.out.println("3->"+Arrays.toString(arr));
